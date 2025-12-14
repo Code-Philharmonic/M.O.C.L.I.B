@@ -1,0 +1,4 @@
+#ifndef MOCLIB_ALL_HPP
+#define MOCLIB_ALL_HPP
+
+#endif // MOCLIB_ALL_HPP
